@@ -1,5 +1,10 @@
 # React + Vite
 
+## Tetris project with freecodecamp help
+
+credits to Thomas Weibenfalk for the tutorial.
+i made some modification to the code like adding a pause button
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
